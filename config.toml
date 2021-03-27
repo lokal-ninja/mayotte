@@ -1,0 +1,19 @@
+baseURL = "https://fr.shoogle.net/mayotte"
+languageCode = "fr"
+title = "Mayotte"
+theme = "ln-base"
+
+disableKinds = ["RSS", "robotsTXT"]
+enableGitInfo = true
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "mayotte"
+
+[taxonomies]
+  shop = "shops"
