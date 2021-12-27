@@ -1,6 +1,6 @@
 ---
 title: Iloni
 url: /iloni/
-latitude: 
-longitude: 
+latitude: -12.845
+longitude: 45.189
 ---

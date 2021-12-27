@@ -1,6 +1,6 @@
 ---
 title: Acoua
 url: /acoua/
-latitude: -12.724324500000002
-longitude: 45.0589372
+latitude: -12.725
+longitude: 45.06
 ---
