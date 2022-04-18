@@ -1,6 +1,6 @@
 ---
 title: Pamandzi
 url: /pamandzi/
-latitude: -12.796
-longitude: 45.281
+latitude: -12.797
+longitude: 45.28
 ---
