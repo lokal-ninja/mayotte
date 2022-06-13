@@ -1,6 +1,6 @@
 ---
 title: Labattoir
 url: /labattoir/
-latitude: -12.789
-longitude: 45.271
+latitude: -12.787
+longitude: 45.275
 ---
