@@ -1,4 +1,4 @@
-baseURL = "https://fr.shoogle.net/mayotte"
+baseURL = "https://fr.shoogle.net/mayotte/"
 languageCode = "fr"
 title = "Mayotte"
 theme = "ln-base"
