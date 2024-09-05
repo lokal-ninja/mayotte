@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie"
 url: /tsingoni/boulangerie/
-shop: boulangerie
+shop: Bäckerei
 ---

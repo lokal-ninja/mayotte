@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie"
 url: /chirongui/boulangerie/
-shop: boulangerie
+shop: Bäckerei
 ---

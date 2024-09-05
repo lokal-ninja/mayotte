@@ -1,5 +1,5 @@
 ---
 title: "Sodifram"
 url: /mamoudzou/sodifram/
-shop: supermarché
+shop: Supermarkt
 ---

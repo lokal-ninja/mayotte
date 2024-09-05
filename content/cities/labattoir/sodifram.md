@@ -1,5 +1,5 @@
 ---
 title: "Sodifram"
 url: /labattoir/sodifram/
-shop: supermarché
+shop: Supermarkt
 ---
