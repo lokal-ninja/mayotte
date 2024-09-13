@@ -1,5 +1,5 @@
 ---
 title: "Sodicash"
 url: /mamoudzou/sodicash/
-shop: Supermarkt
+shop: supermarché
 ---

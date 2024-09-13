@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /tsingoni/orange/
-shop: Handy
+shop: téléphone portable
 ---

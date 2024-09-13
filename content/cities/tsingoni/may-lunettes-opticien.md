@@ -1,5 +1,5 @@
 ---
 title: "May Lunettes Opticien"
 url: /tsingoni/may-lunettes-opticien/
-shop: Optiker
+shop: opticien
 ---

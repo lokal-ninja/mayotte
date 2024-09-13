@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /mamoudzou/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ethnik"
 url: /mamoudzou/ethnik/
-shop: Kleidung
+shop: vêtements
 ---
