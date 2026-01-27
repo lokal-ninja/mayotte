@@ -1,5 +1,5 @@
 ---
 title: "Bintoushop"
 url: /ouangani/bintoushop/
-shop: supermarché
+shop: commodité
 ---

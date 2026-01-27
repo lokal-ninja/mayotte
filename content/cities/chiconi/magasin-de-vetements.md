@@ -1,5 +1,5 @@
 ---
-title: "Magasin de Vêtements"
+title: "Magasin de vêtements"
 url: /chiconi/magasin-de-vetements/
 shop: vêtements
 ---
