@@ -1,5 +1,5 @@
 ---
 title: "Duka"
 url: /sada/duka-27/
-shop: commodité
+shop: vêtements
 ---
