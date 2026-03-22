@@ -1,6 +1,6 @@
 ---
-title: Mamoudzou
+title: MAMOUDZOU
 url: /mamoudzou/
-latitude: -12.772
-longitude: 45.223
+latitude: -12.78
+longitude: 45.225
 ---
