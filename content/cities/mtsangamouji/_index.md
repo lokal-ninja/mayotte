@@ -1,6 +1,6 @@
 ---
 title: M'Tsangamouji
 url: /mtsangamouji/
-latitude: -12.752
-longitude: 45.054
+latitude: -12.766
+longitude: 45.078
 ---
