@@ -1,6 +1,6 @@
 ---
 title: Tsingoni
 url: /tsingoni/
-latitude: -12.793
-longitude: 45.132
+latitude: -12.79
+longitude: 45.134
 ---
