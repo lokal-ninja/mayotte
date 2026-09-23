@@ -1,6 +1,6 @@
 ---
 title: Ouangani
 url: /ouangani/
-latitude: -12.837
-longitude: 45.13
+latitude: -12.839
+longitude: 45.133
 ---
