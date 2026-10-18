@@ -1,5 +1,5 @@
 ---
-title: "duka"
+title: "Duka"
 url: /tsingoni/duka-18/
-shop: vêtements
+shop: commodité
 ---
