@@ -1,5 +1,5 @@
 ---
 title: "Duka"
 url: /ouangani/duka-24/
-shop: commodité
+shop: vêtements
 ---
